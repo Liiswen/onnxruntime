@@ -37,7 +37,7 @@ protoc_mac_universal;https://github.com/protocolbuffers/protobuf/releases/downlo
 psimd;https://github.com/Maratyszcza/psimd/archive/072586a71b55b7f8c584153d223e95687148a900.zip;1f5454b01f06f9656b77e4a5e2e31d7422487013
 pthreadpool;https://github.com/Maratyszcza/pthreadpool/archive/1787867f6183f056420e532eec640cba25efafea.zip;e43e80781560c5ab404a4da20f34d846f5f5d101
 pybind11;${CMAKE_CURRENT_SOURCE_DIR}/../../../../../../pybind11-2.10.1.zip;769b6aa67a77f17a770960f604b727645b6f6a13
-pytorch_cpuinfo;${CMAKE_CURRENT_SOURCE_DIR}/../../../../../../cpuinfo-959002f82d7962a473d8bf301845f2af720e0aa4.zip;85da3caa60eb2b148613b443fbc2bfdc30689965
+pytorch_cpuinfo;${CMAKE_CURRENT_SOURCE_DIR}/../../../../../../cpuinfo-5916273f79a21551890fd3d56fc5375a78d1598d.zip;2be4d2ae321fada97cb39eaf4eeba5f8c85597cf
 re2;${CMAKE_CURRENT_SOURCE_DIR}/../../../../../../re2-2022-06-01.zip;aa77313b76e91b531ee7f3e45f004c6a502a5374
 safeint;${CMAKE_CURRENT_SOURCE_DIR}/../../../../../../SafeInt-3.0.28.zip;23f252040ff6cb9f1fd18575b32fa8fb5928daac
 tensorboard;https://github.com/tensorflow/tensorboard/archive/373eb09e4c5d2b3cc2493f0949dc4be6b6a45e81.zip;67b833913605a4f3f499894ab11528a702c2b381
